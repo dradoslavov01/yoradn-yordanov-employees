@@ -1,0 +1,25 @@
+.App {
+    display: flex;
+    flex-direction: column;
+}
+.textMsg {
+ margin-top: 150px;
+ margin-left: 50px;
+ font-size: 22px;
+ font-weight: 700;
+}
+.form-container,
+.data-grid  {
+    margin-left: 50px;
+}
+
+
+/*style column header*/
+.c1wupbe700-beta7 {
+    font-size: 18px;
+     color: rgb(37, 37, 37);
+}
+
+.r104f42s700-beta7 {
+    height: 71.5px;
+}
